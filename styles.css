@@ -6,11 +6,11 @@
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100');
 
 body {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;;
   background-color:black;
+  background-image:url('http://www.runescape.com/img/rsp777/bg2.jpg');
   background-position:center;
   background-repeat:repeat-y;
-  background-image:url('http://www.runescape.com/img/rsp777/bg2.jpg');
   text-align:center;
   color:rgb(0, 0, 0);
 }
