@@ -140,9 +140,9 @@ nav ul {
 .mob-info-panel {
   display: block;
   position: relative;
-	text-transform: none;
-	background-image: url("http://www.styleyourforum.com/data/503/css18.jpg");
-	background-repeat: repeat-y;
+  text-transform: none;
+  background-image: url("http://www.styleyourforum.com/data/503/css18.jpg");
+  background-repeat: repeat-y;
   background-size: fit;
   margin: auto;
 	max-width: 800px;
