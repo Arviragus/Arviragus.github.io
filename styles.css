@@ -10,6 +10,7 @@ body {
   background-color:black;
   background-position:center;
   background-repeat:repeat-y;
+  background-image:url('http://www.runescape.com/img/rsp777/bg2.jpg');
   text-align:center;
   color:rgb(0, 0, 0);
 }
@@ -140,7 +141,7 @@ nav ul {
   display: block;
   position: relative;
 	text-transform: none;
-	background-image: url("http://www.runescape.com/img/rsp777/bg2.jpg");
+	background-image: url("http://www.styleyourforum.com/data/503/css18.jpg");
 	background-repeat: repeat-y;
   background-size: fit;
   margin: auto;
